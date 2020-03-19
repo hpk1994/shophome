@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-19T08:39:48.124Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="z_XoJJ1xuDkHWNkeBlTR" version="12.8.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-03-19T08:56:18.337Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Lo2q4wzDmrybLXkj1DCg" version="12.8.6" type="github" pages="5">
   <diagram id="2TPym8XuV1gSu2I8Dh2k" name="Page-1">
-    <mxGraphModel dx="1723" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,7 +239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lMXYCpf0PWMr9272k4nM" name="Page-2">
-    <mxGraphModel dx="1723" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="oq0dUE_PeGrhgSTPifTt-0" />
         <mxCell id="oq0dUE_PeGrhgSTPifTt-1" parent="oq0dUE_PeGrhgSTPifTt-0" />
@@ -288,7 +288,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ZnXtTSoMKgwPU6a0zlu" name="第 3 页">
-    <mxGraphModel dx="1378" dy="635" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1186" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="BVEu7o4c-sR8T7UEBEOM-0" />
         <mxCell id="BVEu7o4c-sR8T7UEBEOM-1" parent="BVEu7o4c-sR8T7UEBEOM-0" />
@@ -401,6 +401,56 @@
         </mxCell>
         <mxCell id="o9sROefwqtnzPwSl4HxR-4" value="DSL解析器" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="o9sROefwqtnzPwSl4HxR-1">
           <mxGeometry x="620" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KpEvLDulXWUbLg7uavf0" name="第 5 页">
+    <mxGraphModel dx="1483" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-0" />
+        <mxCell id="AGuq-E12V3T2bcplnPZH-1" parent="AGuq-E12V3T2bcplnPZH-0" />
+        <mxCell id="AGuq-E12V3T2bcplnPZH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="AGuq-E12V3T2bcplnPZH-1" source="AGuq-E12V3T2bcplnPZH-2" target="AGuq-E12V3T2bcplnPZH-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-11" value="发送网络请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="AGuq-E12V3T2bcplnPZH-6">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-2" value="初始&lt;br&gt;Default" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AGuq-E12V3T2bcplnPZH-1">
+          <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-3" value="请求中&lt;br&gt;Loading" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AGuq-E12V3T2bcplnPZH-1">
+          <mxGeometry x="560" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-4" value="成功&lt;br&gt;Loading" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AGuq-E12V3T2bcplnPZH-1">
+          <mxGeometry x="810" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-5" value="失败&lt;br&gt;Fail" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AGuq-E12V3T2bcplnPZH-1">
+          <mxGeometry x="810" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-9" value="" style="endArrow=classic;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AGuq-E12V3T2bcplnPZH-1" target="AGuq-E12V3T2bcplnPZH-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="360" as="sourcePoint" />
+            <mxPoint x="730" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-12" value="请求成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="AGuq-E12V3T2bcplnPZH-9">
+          <mxGeometry x="0.0137" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-10" value="" style="endArrow=classic;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AGuq-E12V3T2bcplnPZH-1" source="AGuq-E12V3T2bcplnPZH-3" target="AGuq-E12V3T2bcplnPZH-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="410" as="sourcePoint" />
+            <mxPoint x="770" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AGuq-E12V3T2bcplnPZH-13" value="请求失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="AGuq-E12V3T2bcplnPZH-10">
+          <mxGeometry x="0.0456" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
