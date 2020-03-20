@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T08:47:08.632Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="4fxQmsxOv5kqmHeS_i0z" version="12.8.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-03-20T08:50:40.594Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Z1ks_NMoQFvYlwh3W6XL" version="12.8.6" type="github" pages="8">
   <diagram id="2TPym8XuV1gSu2I8Dh2k" name="Page-1">
-    <mxGraphModel dx="1638" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,7 +242,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lMXYCpf0PWMr9272k4nM" name="Page-2">
-    <mxGraphModel dx="1638" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="oq0dUE_PeGrhgSTPifTt-0" />
         <mxCell id="oq0dUE_PeGrhgSTPifTt-1" parent="oq0dUE_PeGrhgSTPifTt-0" />
@@ -291,7 +291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1ZnXtTSoMKgwPU6a0zlu" name="第 3 页">
-    <mxGraphModel dx="1310" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="BVEu7o4c-sR8T7UEBEOM-0" />
         <mxCell id="BVEu7o4c-sR8T7UEBEOM-1" parent="BVEu7o4c-sR8T7UEBEOM-0" />
@@ -409,7 +409,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KpEvLDulXWUbLg7uavf0" name="第 5 页">
-    <mxGraphModel dx="1638" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1418" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="AGuq-E12V3T2bcplnPZH-0" />
         <mxCell id="AGuq-E12V3T2bcplnPZH-1" parent="AGuq-E12V3T2bcplnPZH-0" />
@@ -559,6 +559,9 @@
         </mxCell>
         <mxCell id="QNqdnXilPN7SxzqRK5ZP-2" value="&lt;span style=&quot;font-size: 20px&quot;&gt;3&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="BriWv-vmo1N7x2wwOKdz-1">
           <mxGeometry x="100" y="564.5" width="21" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="4foo5qLHmx0ggML_GmwE-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;预加载SDK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="BriWv-vmo1N7x2wwOKdz-1">
+          <mxGeometry x="729" y="128" width="131" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
