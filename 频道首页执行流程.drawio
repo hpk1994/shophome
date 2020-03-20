@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-20T01:39:08.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="vxTweNmMZFiZaDaHXsvp" version="12.8.6" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-03-20T02:08:51.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="psJTrVmjk9PIqfEh2tPF" version="12.8.6" type="github" pages="7">
   <diagram id="2TPym8XuV1gSu2I8Dh2k" name="Page-1">
     <mxGraphModel dx="1483" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -552,7 +552,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BrzIRWzdpBS7REQSBE2x" name="第 7 页">
-    <mxGraphModel dx="1483" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="XmZaQMFD-iz3wnsjfVy2-0" />
         <mxCell id="XmZaQMFD-iz3wnsjfVy2-1" parent="XmZaQMFD-iz3wnsjfVy2-0" />
@@ -795,6 +795,7 @@
             <mxPoint x="662" y="229" as="sourcePoint" />
             <mxPoint x="453" y="179" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="707" y="215" />
               <mxPoint x="989" y="199" />
               <mxPoint x="715" y="193" />
             </Array>
@@ -806,11 +807,25 @@
         <mxCell id="a_BgX4vlMH_70ox4bpu7-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=10;strokeColor=#000000;fillColor=#FF6666;gradientColor=#ffffff;fontSize=16;gradientDirection=west;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
           <mxGeometry x="864" y="830" width="316" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="a_BgX4vlMH_70ox4bpu7-5" value="网络请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
-          <mxGeometry x="581" y="731" width="80" height="20" as="geometry" />
+        <mxCell id="a_BgX4vlMH_70ox4bpu7-5" value="&lt;font color=&quot;#ff0000&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;2：网络请求中&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
+          <mxGeometry x="551" y="729" width="141" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="a_BgX4vlMH_70ox4bpu7-6" value="计算PModel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
-          <mxGeometry x="965" y="800" width="100" height="20" as="geometry" />
+        <mxCell id="a_BgX4vlMH_70ox4bpu7-6" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px&quot;&gt;3：计算PModel&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
+          <mxGeometry x="940" y="798" width="152" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a_BgX4vlMH_70ox4bpu7-7" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px&quot;&gt;1：网络请求前置&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=16;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
+          <mxGeometry x="625" y="238" width="161" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="a_BgX4vlMH_70ox4bpu7-8" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;dashed=1;strokeColor=#FF0000;fillColor=none;gradientColor=#ffffff;fontSize=16;strokeWidth=3;" vertex="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
+          <mxGeometry x="872" y="474.5" width="134" height="118.5" as="geometry" />
+        </mxCell>
+        <mxCell id="a_BgX4vlMH_70ox4bpu7-9" value="发起网络请求&lt;br&gt;等待返回" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;container=1;recursiveResize=0;strokeWidth=2;autosize=1;spacing=4;treeFolding=1;treeMoving=1;shadow=0;fillColor=none;gradientColor=#ffffff;fontSize=16;strokeColor=#FF0000;" vertex="1" collapsed="1" parent="XmZaQMFD-iz3wnsjfVy2-1">
+          <mxGeometry x="965" y="406" width="108" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="a_BgX4vlMH_70ox4bpu7-10" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;strokeColor=#FF6666;strokeWidth=2;fontSize=16;exitX=0.433;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="a_BgX4vlMH_70ox4bpu7-9" parent="XmZaQMFD-iz3wnsjfVy2-1" source="a_BgX4vlMH_70ox4bpu7-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="995" y="473" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
