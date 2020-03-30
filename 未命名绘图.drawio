@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T07:00:23.107Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="pVU9Yo11ezBifgm2YAo-" version="12.8.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-03-30T00:56:33.530Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="IzWUyEewvkAVelIyAbXl" version="12.8.8" type="github" pages="16">
   <diagram id="ZRDspelD08M2EZhi7KNj" name="第 1 页">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -666,7 +666,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 5 页" id="u5_0Sj4_M5hBN0G5Ti2_">
-    <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="AGuq-E12V3T2bcplnPZH-0" />
         <mxCell id="AGuq-E12V3T2bcplnPZH-1" parent="AGuq-E12V3T2bcplnPZH-0" />
@@ -710,7 +710,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 6 页" id="iIUfO57Svd69I0HyPLLd">
-    <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="828" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="BriWv-vmo1N7x2wwOKdz-0" />
         <mxCell id="BriWv-vmo1N7x2wwOKdz-1" parent="BriWv-vmo1N7x2wwOKdz-0" />
@@ -2317,10 +2317,114 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yyx2GTTjnqAAHrlr8iol" name="第 16 页">
-    <mxGraphModel dx="1278" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1827" dy="974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="h-Z3rjnwDodWiEh4fCCY-0" />
         <mxCell id="h-Z3rjnwDodWiEh4fCCY-1" parent="h-Z3rjnwDodWiEh4fCCY-0" />
+        <mxCell id="Nvacpq04jcsqEehvOppf-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#E6E6E6;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="710" y="730" width="1160" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-0" target="Nvacpq04jcsqEehvOppf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-0" value="TS调用网络桥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="357" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-1" target="Nvacpq04jcsqEehvOppf-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-45" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;fontSize=16;" vertex="1" connectable="0" parent="Nvacpq04jcsqEehvOppf-44">
+          <mxGeometry x="0.2952" y="1" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-1" target="Nvacpq04jcsqEehvOppf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-1" value="预加载请求&lt;br&gt;是否返回" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="900" y="790" width="138" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-2" target="Nvacpq04jcsqEehvOppf-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-2" value="为该请求生成唯一标识mapi_id" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="557" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-5" value="请求结果通过网络桥callback返回TS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1135" y="1480" width="300" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-8" value="将mapi_id和网络桥callback作为键值对保持" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="889" y="1037.5" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=16;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-13" target="Nvacpq04jcsqEehvOppf-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-13" value="预加载网络&lt;br&gt;服务返回" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#E6E6E6;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1500" y="790" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-15" value="key：mapi_id&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;value：请求结果" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#E6E6E6;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1220" y="1190" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-16" value="key：mapi_id&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;value：callback" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#E6E6E6;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1220" y="1000" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-31" value="key：&amp;nbsp; &amp;nbsp; mapi_id&amp;nbsp;&lt;br&gt;value： 请求状态" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#E6E6E6;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1220" y="780" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-41" target="Nvacpq04jcsqEehvOppf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1380" />
+              <mxPoint x="1285" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-41" value="根据mapi_id获取请求结果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="729.5" y="1230" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-42" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#B9E0A5;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1030" y="841.88" width="190" height="38.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;strokeWidth=3;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" target="Nvacpq04jcsqEehvOppf-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1770" y="955" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-49" value="网络请求返回" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1690" y="910" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;fontSize=16;" edge="1" parent="h-Z3rjnwDodWiEh4fCCY-1" source="Nvacpq04jcsqEehvOppf-50" target="Nvacpq04jcsqEehvOppf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1770" y="1380" />
+              <mxPoint x="1285" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-50" value="根据mapi_id获取对应的callback" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1690" y="1039.3" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-56" value="发起预加载网络请求" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1205" y="630" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-57" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#FF6666;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1265" y="705" width="40" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-58" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#FF6666;fontSize=16;rotation=-90;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1119.73" y="985.78" width="34.96" height="171.39" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-59" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#FF6666;fontSize=16;rotation=90;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1415.36" y="783" width="40" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-60" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#FF6666;fontSize=16;rotation=30;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1440" y="887.6999999999999" width="40" height="414.59" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-61" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#B9E0A5;fontSize=16;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="888" y="1245" width="331" height="43.87" as="geometry" />
+        </mxCell>
+        <mxCell id="Nvacpq04jcsqEehvOppf-63" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=#E6E6E6;strokeColor=#000000;strokeWidth=1;fillColor=#B9E0A5;fontSize=16;rotation=-180;" vertex="1" parent="h-Z3rjnwDodWiEh4fCCY-1">
+          <mxGeometry x="1360" y="1053.75" width="326.96" height="42.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
